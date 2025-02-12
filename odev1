@@ -1,0 +1,23 @@
+git add dosya_adi
+git commit -m "proje dosyaları eklendi."
+git push origin main
+
+
+git add dosya_1
+git commit -m "Yeni özellik eklendi: Kullanıcı girişi"
+git push origin main
+
+
+git add dosya_adi
+git commit -m "Hata düzeltildi: Veri tabanı bağlantısı"
+git push origin main
+
+
+git add dosya_adi
+git commit -m "Kod iyileştirildi: Performans artırıldı"
+git push origin main
+
+
+git add dosya_adi
+git commit -m "Belgeler güncellendi: Kullanım kılavuzu"
+git push origin main
