@@ -3,6 +3,7 @@ git add dosya1.txt
 git commit -m "Yeni dosya eklendi"
 
 
+
 touch dosya2.txt
 git add dosya2.txt 
 git commit -m "Yeni dosya eklendi"
